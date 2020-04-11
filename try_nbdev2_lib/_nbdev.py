@@ -6,8 +6,8 @@ index = {"rich_func": "00_core.ipynb"}
 
 modules = ["core.py"]
 
-doc_url = "https://richk.github.io/try_nbdev2_lib/"
+doc_url = "https://richkempinski.github.io/try_nbdev2_lib/"
 
-git_url = "https://github.com/richk/try_nbdev2_lib/tree/master/"
+git_url = "https://github.com/richkempinski/try_nbdev2_lib/tree/master/"
 
 def custom_doc_links(name): return None
